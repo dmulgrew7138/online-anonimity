@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+Tor is a free software and an open network that allows you to be anon and harder to trace by the government. It encrpyts data including your ip adress which makes you even harder to trace.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+However the tor network does have some risky risks about it. If encrypting your personal information enough peadophiles use tor to exchange photos and sometimes videos of their victims. Reporters claim that each website has 500 views every second! All of this is illegal and is classed as peadophilia. 
 ```
